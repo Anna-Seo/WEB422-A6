@@ -4,9 +4,9 @@
 *  assignment has been copied manually or electronically from any other source (including web sites) or 
 *  distributed to other students.
 * 
-*  Name: Anna Seo      Student ID: 110186202       Date: 03/29/2023
+*  Name: Anna Seo      Student ID: 110186202       Date: 03/27/2023
 *
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://my-app-lovat-gamma.vercel.app/
 *
 ********************************************************************************/ 
 import { Row, Col } from 'react-bootstrap'
